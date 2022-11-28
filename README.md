@@ -18,7 +18,7 @@
 - **IDE:** Eclipse 2022-09 (4.25.0);
 - Openjdk 17.0.4 2022-07-19.
 
-###  🧑‍🏫 INSTRUCTOR:
+### 👨🏻‍🏫 INSTRUCTOR:
 - [Venilton](https://github.com/falvojr)
     
 ### ORIGINAL DESIGN:
