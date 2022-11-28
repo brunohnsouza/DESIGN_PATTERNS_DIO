@@ -1,6 +1,6 @@
 # 🚀 INFORMATIONS:
 
-### 🔎 OBJECTIVE: *Exploring **Design Patterns** in Practice with Java.*
+### 🔎 OBJECTIVE: Exploring **Design Patterns** in Practice with Java.
 - Bootcamp Project Challenge **Potência Tech powered by iFood - Java Beginners** -> DIO (Digital Innovation One);
 - Design Patterns used:
     - Singleton
